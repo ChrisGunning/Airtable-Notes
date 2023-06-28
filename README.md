@@ -1,7 +1,7 @@
 # AIRTABLE-NOTES
 Guide for features, pros, cons, and general notes about Airtable.
 
-# GENERAL NOTES
+# General
 Notes regarding airtable and its features.
 
 ## Features
@@ -50,8 +50,8 @@ Notes regarding airtable and its features.
 - Templates only have 100 Records limit, cannot be used for widespread usage of templates of rooms;. To increase limit, a enterprise plan is needed. 
 - Airtable’s automations can only have up to 25 actions in them, you can only have 50 automations in a base, and you can only find up to 100 records in an action. Syncing has major limitations as well.
 
-# TEMPLATE
-A summary of the "TEMPLATE" base and its function.
+# Template
+A summary of the "TEMPLATE" base and its functions.
 
 ## Changes
 
