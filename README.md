@@ -23,17 +23,7 @@ Notes regarding airtable and its features.
 	- The main structure that holds data.
 - Views:
 	- Different views of the same table. Allows organization and while maintaining centralization.
- 
-**Hidden Fields:**
-- (Imported):
-	- Was used for reference when creating a database. Can ignore/Delete.
-- (Automation)
-	- Used for an automation in the designated table. Can ignore.
-- (Formula)
-	- Used for a formula in the designated table. Can ignore.
-- (Pull)
-	- Used for linking of databases through automations or formulas. Can ignore.
- 
+
 **Templates:**
 - Do NOT use .Has a limit of 100 records per template; therefore it can only be used in smaller situations, NOT when creating templates for the BOM.
 
@@ -41,7 +31,9 @@ Notes regarding airtable and its features.
 A summary of the "TEMPLATE" base and its function.
 
 ### Changes
+
 ---
+
 **Equipment Database:**
 The "Rack parts Database" as well as the "Cables Database" has been merged into a sole Equipment database. (ask if I should implement an organizational structure to that database)
 Contractor Database:
@@ -62,10 +54,26 @@ This is an additional database "Templates" which mimics Smartsheet's BOM templat
 - Adding/editing BOM: Must change the part name (through selection) and then everything will auto populate. 
 
 ### Features
+
 ---
+
 Deleting/Hiding rooms:
 - To delete a room completely, go to the the Space List and click the "Delete" button. This will delete the room and its corresponding records in other tables.
 - If you do not want a specific room inside the estimating summary BUT you do not want to delete it, go to the "Estimating Summary" and to the TOTALS row and the hidden field: "Change Totals". In that cell, add or remove only the rooms that you want to display in the totals. From here it will be updated corresponding to your selected rooms both in the table and the interface.
 Filling out the worksheets:
 - To create a new space, create a new record inside the Space List. This populates all of the records for the other worksheets. From there, follow smart sheets order: Space List -> BOM -> AV Labor -> Contractor -> Network -> TCO. The estimating summary should automatically update.
 - When creating another space, try to not name them the same name as it messes up the organization of the BOM and is hard to differentiate throughout the database.
+
+### Random
+
+--- 
+
+**Hidden Fields:**
+- (Imported):
+	- Was used for reference when creating a database. Can ignore/Delete.
+- (Automation)
+	- Used for an automation in the designated table. Can ignore.
+- (Formula)
+	- Used for a formula in the designated table. Can ignore.
+- (Pull)
+	- Used for linking of databases through automations or formulas. Can ignore.
