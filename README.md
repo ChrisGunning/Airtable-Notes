@@ -8,10 +8,12 @@ Notes regarding airtable and its features.
 - Fields
 - Records
 - Cells
+  
 **Automations:**
 - Allows you update,create, automate processes.
 - Somewhat limited in what it can do, though through code it should be able to do pretty much anything
-- more complex, but allows a system where you can input several 
+- more complex, but allows a system where you can input several
+  
 **Organizational Hierarchy:**
 - Workspaces:
 	- Overarching structure, contains bases.
@@ -21,6 +23,7 @@ Notes regarding airtable and its features.
 	- The main structure that holds data.
 - Views:
 	- Different views of the same table. Allows organization and while maintaining centralization.
+ 
 **Hidden Fields:**
 - (Imported):
 	- Was used for reference when creating a database. Can ignore/Delete.
@@ -41,13 +44,16 @@ A summary of the "TEMPLATE" base and its function.
 The "Rack parts Database" as well as the "Cables Database" has been merged into a sole Equipment database. (ask if I should implement an organizational structure to that database)
 Contractor Database:
 The contractor database was split in two. One is for CIT AV Furnishing Cables and the other for the Contractor Furnishing Cables. 
+
 **Template Database:** 
 This is an additional database "Templates" which mimics Smartsheet's BOM templates. Records from here are pulled from the BOM when a specific space type is created. 
 - To change a template, either add a record, or change an item. If you select an item, the "model part" and "make" will be automatically imported from the equipment database. You must also determine if it is OFE as well as the quantity.
 - To add a template, you must first create a new option for the "Template" column in the "Space List" worksheet. Then go to the hidden field:  "Room" in the "Templates" table and create a new option with the exact same name. Then assign the "Room" as well as the hidden field:  "Category". NOTE: If the new template exceeds more than 100 records, select half of the records and check the hidden field: "Half". If it exceeds over 200 records, a new automation and field must be created.
 - Red colored record: The record is incomplete.
+  
 **Space List:**
 - It now has a selector for which template you want to select. NOTE: If you select a template once, you cannot change it. To change it, store the record.
+
 **BOM:**
 - The BOM does not initially have anything inside of it. It is populated automatically once a template is chosen from the space list.
 - Red colored record: The record is incomplete.
