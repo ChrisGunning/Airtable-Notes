@@ -1,5 +1,16 @@
-# Airtable-Notes
+# AIRTABLE-NOTES
 Guide for features, pros, cons, and general notes about Airtable.
+
+## Contents
+
+### General Notes
+- Features
+- Pros
+- Cons
+
+### Template Notes
+- Changes
+- Features
 
 # GENERAL NOTES
 Notes regarding airtable and its features.
