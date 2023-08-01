@@ -1,8 +1,13 @@
 # AIRTABLE-NOTES
-Guide for features, pros, cons, and general notes about Airtable.
+This is a guide for features, pros, cons, and general notes about Airtable.
 
-# General
-Notes regarding airtable and its features.
+[![Copy of Airtable Database](https://www.youtube.com/watch?v=POgkE-YjAJo&t=1s.jpg)]([https://youtu.be/WXsD0ZgxjRw](https://airtable.com/appoqV2PTuUe1K0Z8/tbltBJHh2XHjCdO8G/viwXZaMRbTBuYR76h?blocks=hide))
+
+## Important Links
+
+* [General notes](./general-notes.md)
+* [Airtable guide](./airtable-guide.md)
+* [Template notes](./template.md)
 
 ## Features
 
