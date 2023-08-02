@@ -32,6 +32,6 @@ This section serves to explain additional features implemented into the airtable
 - To delete a room completely, go to the the Space List and click the "Delete" button. This will delete the room and its corresponding records in other tables.
 - If you do not want a specific room inside the estimating summary BUT you do not want to delete it, go to the "Estimating Summary" and to the TOTALS row and the hidden field: "Change Totals". In that cell, add or remove only the rooms that you want to display in the totals. From here it will be updated corresponding to your selected rooms both in the table and the interface.
 Filling out the worksheets:
-- To create a new space, create a new record inside the Space List. This populates all of the records for the other worksheets. From there, follow smart sheets order: Space List -> BOM -> AV Labor -> Contractor -> Network -> TCO. The estimating summary should automatically update.
+- To create a new space, create a new record inside the Space List. This populates all of the records for the other worksheets. From there, follow smart sheets order: Space List -> BOM -> AV Labor -> Contractor -> Network -> TCO. The estimating summary should automatically update for everything except for the BOM.
 - When creating another space, try to not name them the same name as it messes up the organization of the BOM and is hard to differentiate throughout the database.
 
