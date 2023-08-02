@@ -2,6 +2,7 @@
 A summary of the "TEMPLATE" base and its functions.
 
 ## Changes
+This section highlights the difference between the Smartsheet database and the Airtable database.
 
 **Equipment Database:**
 The "Rack parts Database" as well as the "Cables Database" has been merged into a sole Equipment database. (ask if I should implement an organizational structure to that database)
@@ -23,6 +24,7 @@ This is an additional database "Templates" which mimics Smartsheet's BOM templat
 - Adding/editing BOM: Must change the part name (through selection) and then everything will auto populate. 
 
 ## Features
+This section serves to explain additional features implemented into the airtable database.
 
 Deleting/Hiding rooms:
 - To delete a room completely, go to the the Space List and click the "Delete" button. This will delete the room and its corresponding records in other tables.
