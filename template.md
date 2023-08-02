@@ -52,5 +52,5 @@ The airtable database is extremely interconnected and if changed too much, could
 
 **Automatic Updates to Estimating Summary from BOM**
 - This was one of the biggest roadblocks for me throughout the creation of Airtable. This task is supposed to be possible through automations: however, there seems to be a problem when appending many records to a linked record cell (The discussion can be found here -> [Discussion](https://community.airtable.com/t5/automations/linking-several-records-to-a-single-record-in-another-table/td-p/156226)).
-- I also tried using scripting however, this again was unsucessful as the code never seemed to work. (the code I used can be found here -> [Script](./Scripting/Update Estimating Summary).
+- I also tried using scripting however, this again was unsucessful as the code never seemed to work. (the code I used can be found here in the Scripting folder)
 - If someone were try to fix it, I believe that using simply automations will be too difficult and therefore they should try use a script to fix it.
