@@ -1,7 +1,7 @@
 # AIRTABLE-NOTES
 This is a guide for features, pros, cons, and general notes about Airtable.
 
-[![Copy of Airtable Database]((https://airtable.com/appoqV2PTuUe1K0Z8/tbltBJHh2XHjCdO8G/viwXZaMRbTBuYR76h?blocks=hide))]
+[Copy of Airtable Database](https://airtable.com/appoqV2PTuUe1K0Z8/tbltBJHh2XHjCdO8G/viwXZaMRbTBuYR76h?blocks=hide)
 
 ## Important Links
 
