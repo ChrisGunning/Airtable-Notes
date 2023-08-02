@@ -1,0 +1,14 @@
+let inputConfig = input.config();
+let table = base.getTable("Estimating Summary")
+//let table2 =base.getTable('Worksheet: BOM')
+let queryResult = await table.selectRecordsAsync();
+let record = queryResult.getRecord(inputConfig.estRecordId[0])
+console.log(record)
+let bomIDs = [];
+
+record.getCellValue('Worksheet: BOM').filter(record => record.getCellValue("Space list ID") == record.id).forEach((value) => {bomIDs.push({id: value.id})});
+console.log(bomIDs)
+
+await table.updateRecordAsync(inputConfig.estRecordId[0],{
+    'Worksheet: BOM' : bomIDs
+});
