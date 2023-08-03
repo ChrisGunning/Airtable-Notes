@@ -2,7 +2,7 @@
 A summary of the "TEMPLATE" base and its functions.
 
 ## IMPORTANT
-- When updating/creating the BOM, you must always update the 
+- When updating/creating the BOM, you must ALWAYS update the Estimating summary by checking off the "populate" checkbox. If this is not done, the estimating summary is not properly updated meaning that the interface, which displays all of the essential data, is incorrect.
 
 ## Changes
 This section highlights the difference between the Smartsheet database and the Airtable database.
