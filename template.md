@@ -44,6 +44,9 @@ Filling out the worksheets:
 **Creating/Changing BOM templates**
 - Unlike smartsheet, the templates when creating the BOM function differently. Information found above in "Changes" section.
 
+**BOM Export**
+- An additional view has been in added in the worksheets which allows for easy export of the BOM. This export however is far from perfect and has to be edited in excel significantly. In order to export a view, you must "Download CSV" which is found in the view's options.
+
 ## Improvements:
 This section serves to highlight what can be expanded on the airtable database.
 
