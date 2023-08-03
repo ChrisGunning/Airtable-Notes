@@ -3,6 +3,7 @@ A summary of the "TEMPLATE" base and its functions.
 
 ## IMPORTANT
 - When updating/creating the BOM, you must ALWAYS update the Estimating summary by checking off the "populate" checkbox. If this is not done, the estimating summary is not properly updated meaning that the interface, which displays all of the essential data, is incorrect.
+- Changing any of the databases will not have an negative effect on the rest of the template. However, if one decides to add a new space type, make sure that every neccessary field is filled before it is used.
 
 ## Changes
 This section highlights the difference between the Smartsheet database and the Airtable database.
@@ -20,6 +21,9 @@ This is an additional database "Templates" which mimics Smartsheet's BOM templat
   
 **Space List:**
 - It now has a selector for which template you want to select. NOTE: If you select a template once, you cannot change it. To change it, store the record.
+
+**Contractors Database**
+- Due to airtable limitations, the contractor database is split into 2 seperate views, one being for the CIT AV Furnishing cost while the other being for the Contractor Furnishing cost.
 
 **BOM:**
 - The BOM does not initially have anything inside of it. It is populated automatically once a template is chosen from the space list.
