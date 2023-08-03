@@ -1,6 +1,7 @@
 # AIRTABLE-NOTES
 This is a guide for features, pros, cons, and general notes about Airtable.
 
+[![Airtable Video](https://img.youtube.com/vi/hQVz1PkNUJs/maxresdefault.jpg)](https://youtu.be/hQVz1PkNUJs)
 [Copy of Airtable Database](https://airtable.com/appoqV2PTuUe1K0Z8/tbltBJHh2XHjCdO8G/viwXZaMRbTBuYR76h?blocks=hide)
 
 ## Important Links
