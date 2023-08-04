@@ -3,7 +3,7 @@ This is a guide for features, pros, cons, and general notes about Airtable.
 
 [Airtable Video](https://youtu.be/hQVz1PkNUJs)
 
-[Airtable Final Workspace Link](https://airtable.com/invite/l?inviteId=invvxVxZqaJM5Phcy&inviteToken=f2e1823b150f8e3e754d46ce237223fd682b8b4550c5dbd3ddee9b4070eb231b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
+[Airtable Final Workspace](https://airtable.com/invite/l?inviteId=invvxVxZqaJM5Phcy&inviteToken=f2e1823b150f8e3e754d46ce237223fd682b8b4550c5dbd3ddee9b4070eb231b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
 [Airtable Version History](https://airtable.com/invite/l?inviteId=invLk2Vwum3U4G3mt&inviteToken=28f8b601579fb2332c8ecc50279d4682e38827385a1daf961731ef2e6ec0f092&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
